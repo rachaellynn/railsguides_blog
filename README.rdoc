@@ -4,3 +4,9 @@ This app follows the railsguides getting started blog ap at: http://guides.rubyo
 
 I'm using Ruby 2.2.3 and Rails 4.2.4
 This is just another drill so that rails notions become more comfortable.
+
+This tutorial is useful for: 
+
+- creating relationships within models (as in the reservster app)
+- creating and calling partials (though the syntax is still unclear to me and I've made notes about this this on the tutorial page with the NoteAnywhere Chrome extension)
+-- implenting basic authentication with HTTP authentication system (implementation is incomplete in this tutorial).
